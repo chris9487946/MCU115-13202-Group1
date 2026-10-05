@@ -1,3 +1,3 @@
-text變成Hello World!!!  
-textSize變成60sp  
-textColor變成#39FF14
+# MCU115-13202-Group1
+
+字體大小變60sp並且顏色變成螢光綠
